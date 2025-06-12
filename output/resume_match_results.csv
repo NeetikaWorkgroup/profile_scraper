@@ -1,0 +1,7 @@
+resume_id,job_id,job_title,match_percent,matched_skills,missing_skills
+resume_1,Job title-101,Data Analyst,40.0,"data analysis, python","data viz, sql, ml, power bi, communication"
+resume_2,Job title-101,Data Analyst,28.0,"sql, power bi, communication","data viz, data analysis, python, ml"
+resume_3,Job title-101,Data Analyst,40.0,"data viz, python","data analysis, sql, ml, power bi, communication"
+resume_1,Job title-102,Data Engineer,0.0,,"etl, sql server"
+resume_2,Job title-102,Data Engineer,37.5,sql server,etl
+resume_3,Job title-102,Data Engineer,62.5,etl,sql server
