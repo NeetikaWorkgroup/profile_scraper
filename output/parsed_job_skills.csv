@@ -1,0 +1,10 @@
+job_id,job_title,skill,weight
+Job title-101,Data Analyst,Data Viz,5
+Job title-101,Data Analyst,Data Analysis,5
+Job title-101,Data Analyst,Python,5
+Job title-101,Data Analyst,SQL,4
+Job title-101,Data Analyst,ML,3
+Job title-101,Data Analyst,Power BI,2
+Job title-101,Data Analyst,Communication,1
+Job title-102,Data Engineer,ETL,5
+Job title-102,Data Engineer,SQL server,3
